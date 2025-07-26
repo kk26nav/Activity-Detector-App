@@ -22,7 +22,7 @@ An Android app built using Kotlin and Jetpack Compose that uses the device's acc
 
 ## 📷 Screenshots
 
-> _Add screenshots of your app UI here (optional)_
+![Basic UI](./basicUI.jpg)
 
 ---
 
